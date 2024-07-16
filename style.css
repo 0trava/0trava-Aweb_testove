@@ -87,8 +87,6 @@ td img {
     margin-left: 40px;
 }
 
-/* Quality */
-
 .Quality__block {
     display: flex;
     width: 100%;
@@ -100,7 +98,6 @@ td img {
 
 .Quality__block_1 {
     display: flex;
-    /* width: 400px; */
     height: auto;
 }
 
@@ -109,9 +106,9 @@ td img {
     height: auto;
 }
 
-.Quality__block_2 {
+/* .Quality__block_2 {
     width: 60vw;
-}
+} */
 
 .Quality__list {
     font-size: 19px;
